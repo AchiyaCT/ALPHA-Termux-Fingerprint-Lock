@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-# Author : HIRUWA
+# Authr : HIRUWA
 
 #colors and other variables.
 R='\e[1;31m'
